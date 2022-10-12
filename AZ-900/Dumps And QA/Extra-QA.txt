@@ -1,0 +1,142 @@
+https://www.sqlshack.com/how-to-prepare-for-the-exam-az-900-microsoft-azure-fundamentals/
+
+One of the following is a benefit of cloud services:
+
+Economies of scale
+
+Spending money upfront and then deducting that expense over time refers to:
+
+Capital expenditure
+
+Making a service available with no downtime for an extended period of time, refers to:
+
+High availability
+
+Microsoft Office 365 is considered as an example of:
+
+Software as a Service
+
+The cloud model that provides the greatest degree of ownership and control is:
+
+Private
+
+The cloud model that provides the greatest degree of flexibility is:
+
+Hybrid
+
+The cloud deployment model that fits legacy applications with specialized mainframe hardware and newer shared applications is:
+
+Hybrid cloud
+
+The Azure platform that requires the most user management of the cloud services is:
+
+Infrastructure as a Service
+
+To ensure the data-residency and compliance for customers who need to keep their data and applications close, you should use:
+
+Geographies
+
+All resources that are part of an application and share the same lifecycle should exist in the same_________:
+
+Resource group
+
+The Azure compute resource that can be used to deploy and manage a set of identical virtual machines is called:
+
+Virtual machine scale sets
+
+If you are concerned only about the code running your service and not the underlying platform or infrastructure, then you should use:
+
+Azure Functions
+
+Azure Resource Manager templates are using the ______ format
+
+JSON
+
+A distributed network of servers that can efficiently deliver web content to users is called:
+
+Azure Content Delivery Network
+
+The storage type that is optimized for storing massive amounts of 
+unstructured data, such as videos and images is:
+
+Blobs
+
+The cloud service that provides development collaboration tools including high-performance pipelines, free private Git repositories, and configurable Kanban boards is called:
+
+Azure DevOps Services
+
+Microsoft Azure datacenters are organized and made available by:
+
+Regions
+
+To grant or deny access based on the originating IP address, you need to use:
+
+Azure Firewall
+
+____________ requires both a password and a security question for full authentication
+
+Multi-Factor Authentication
+
+To filter the internet traffic in your Microsoft Azure virtual network, you should use:
+
+Network Security Group
+
+To store and manage the passwords centrally in Azure, you should use:
+
+Azure Key Vault
+
+To download published audit reports and how Microsoft builds and operates its cloud services, you should use:
+
+Service Trust Portal
+
+_____________ provides information about planned maintenance and changes that could affect the availability of your resources
+
+Azure Service Health
+
+To obtain details about the personal data Microsoft processes, how Microsoft processes it, and for what purposes, you should use:
+
+Microsoft Privacy Statement
+
+To enforce resource tagging, so you can manage billing, you should use:
+
+Azure Policy
+
+To define a repeatable set of Microsoft Azure resources that implement organizational requirements, you should use:
+
+Azure Blueprint
+
+To grant users only the rights they need to perform their jobs, you can use:
+
+Role-Based Access Control
+
+A set of tools for monitoring, allocating, and optimizing your Azure costs, called:
+
+Azure Cost Management
+
+To manage governance across multiple Azure subscriptions, you should use:
+
+Management Groups
+
+The performance targets, like uptime, for an Azure product or service, is called:
+
+Service Level Agreements
+
+A logical unit of Azure services that links to an Azure account, is called:
+
+Azure Subscription
+
+The support plan that does not offer 24×7 access to Support Engineers by email and phone, is called:
+
+Developer
+
+________ allows all Azure customers to test the beta and other pre-release features
+
+Public Preview
+
+Releasing a feature to all Azure customers is called:
+
+General Availability
+
+To estimate cost savings when migrating to Microsoft Azure, you can use:
+
+Total Cost of Ownership calculator

@@ -1,7 +1,20 @@
 Practice Question Online
 --------------------------
 Best One:
+https://www.passnexam.com/microsoft/az-900/1
 https://www.examtopics.com/exams/microsoft/az-900/
+Cloud Expert
+	https://acloudxpert.com/practice-test-1-az-900-dumps-mock-test/
+	https://acloudxpert.com/practice-test-2-az-900-dumps-mock-test/
+	https://acloudxpert.com/practice-test-3-az-900-dumps-mock-test/
+https://quizlet.com/fr/614815305/az900-part-2-sc-azur-services-flash-cards/
+https://examposter.com/microsoft/az-900-microsoft-azure-fundamentals/az-900-part-01/
+https://learn.microsoft.com/en-us/certifications/resources/az-900-sample-questions
+
+Same as ExamTopics
+------------------
+Username:AfzalPashaA (CaseSensetive)
+https://www.itexams.com/exam/AZ-900?
 
 Other Files
 ------------
@@ -17,6 +30,10 @@ download the VCE files https://www.examcollection.com/AZ-900.html
 Microsoft Modules
 ------------------
 https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/
+
+other Practiec test
+--------------------
+https://www.testpreptraining.com/microsoft-azure-fundamentals-az-900-free-practice-test
 
 
 
