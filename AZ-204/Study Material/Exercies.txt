@@ -1,0 +1,19 @@
+Exercise: Create a block blob storage account
+https://learn.microsoft.com/en-us/training/modules/explore-azure-blob-storage/6-create-block-blob-storage-account
+
+Exercise: Create Azure Cosmos DB resources by using the Azure portal
+https://learn.microsoft.com/en-us/training/modules/explore-azure-cosmos-db/8-create-cosmos-db-resources-portal
+
+
+Exercise: Create resources by using the Microsoft .NET SDK v3
+https://learn.microsoft.com/en-us/training/modules/work-with-cosmos-db/3-exercise-work-cosmos-db-dotnet
+
+Exercise: Create a virtual machine by using the Azure CLI
+https://learn.microsoft.com/en-us/training/modules/provision-virtual-machines-azure/5-azure-virtual-machine-azure-cli
+
+Exercise: Create and deploy Azure Resource Manager templates by using Visual Studio Code
+https://learn.microsoft.com/en-us/training/modules/create-deploy-azure-resource-manager-templates/6-create-deploy-resource-manager-template
+
+
+
+

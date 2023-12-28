@@ -1,0 +1,10 @@
+1. Exercise: Create a static HTML web app by using Azure Cloud Shell
+	https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/7-create-html-web-app
+	
+	publish Web 
+	https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs
+	
+	Deploy an ASP.NET Core and Azure SQL Database app to Azure App Service
+	https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app?tabs=azure-portal%2Cvisualstudio-deploy%2Cdeploy-instructions-azure-portal%2Cazure-portal-logs%2Cazure-portal-resources
+	
+2. 

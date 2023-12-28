@@ -1,0 +1,328 @@
+All
+https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/
+
+Complete one prerequisite
+https://learn.microsoft.com/en-us/certifications/azure-administrator/
+
+DbSkyLimit Question Videos
+Module 1 https://www.youtube.com/watch?v=VYqY9Br9hKw
+
+--New Series
+https://www.youtube.com/watch?v=KNBlGRbA4G8&t=79s
+80 Questions Completed time: 1:48
+
+Answeres Explained
+https://www.youtube.com/watch?v=qbnuwEohUbo&list=PLlKA5U_Yqgof3H0YWhzvarFixW9QLTr4S&index=47
+
+
+ZRS Supports Synchronous
+Premium ZRS Supports Data Resillency
+Geo-redundant storage (GRS) -- Data redundancy - 
+Geo-redundant storage (GRS) -- Supports Fault Tolernce 
+Read Access ZRS - supports Archive access
+SMB Multi Channel -- Premium LRS
+All types Supports Life Cycle Management
+Host Caching- Read/Write
+Azure Data Lake Storage -Hierarchical namespace
+infrequently accessed data- Cool access tier
+
+ASP.NET Core apps can be hosted both on Windows or Linux.
+ASP.NET apps can be hosted on Windows only
+
+Azure Disk Encryption (New Key) --Store and use the encryption key in KV1.
+
+
+
+
+Start
+https://www.examtopics.com/exams/microsoft/az-104/view/16/
+
+Wrong validate Images
+11-70
+16-12
+
+
+Job title User Location
+https://www.examtopics.com/exams/microsoft/az-104/view/8/
+https://www.examtopics.com/exams/microsoft/az-104/view/13/
+
+New
+https://www.examtopics.com/discussions/microsoft/view/67529-exam-az-104-topic-6-question-7-discussion/
+https://www.examtopics.com/discussions/microsoft/view/63162-exam-az-104-topic-5-question-65-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57418-exam-az-104-topic-16-question-1-discussion/
+https://www.examtopics.com/discussions/microsoft/view/79430-exam-az-104-topic-15-question-1-discussion/
+https://www.examtopics.com/discussions/microsoft/view/79846-exam-az-104-topic-15-question-3-discussion/
+https://www.examtopics.com/discussions/microsoft/view/63489-exam-az-104-topic-5-question-22-discussion/
+https://www.examtopics.com/discussions/microsoft/view/80794-exam-az-104-topic-8-question-1-discussion/
+https://www.examtopics.com/discussions/microsoft/view/67547-exam-az-104-topic-4-question-68-discussion/
+https://www.examtopics.com/discussions/microsoft/view/51529-exam-az-104-topic-6-question-17-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57017-exam-az-104-topic-13-question-2-discussion/
+https://www.examtopics.com/discussions/microsoft/view/20829-exam-az-103-topic-16-question-70-discussion/
+https://www.examtopics.com/discussions/microsoft/view/29474-exam-az-104-topic-5-question-8-discussion/
+https://www.examtopics.com/discussions/microsoft/view/51238-exam-az-104-topic-5-question-56-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38432-exam-az-104-topic-5-question-20-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39015-exam-az-104-topic-5-question-6-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38955-exam-az-104-topic-5-question-1-discussion/
+https://www.examtopics.com/discussions/microsoft/view/51672-exam-az-104-topic-6-question-16-discussion/
+https://www.examtopics.com/discussions/microsoft/view/16986-exam-az-400-topic-7-question-61-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38740-exam-az-104-topic-5-question-90-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38889-exam-az-104-topic-5-question-36-discussion/
+https://www.examtopics.com/discussions/microsoft/view/17302-exam-az-103-topic-3-question-1-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62934-exam-az-104-topic-4-question-63-discussion/
+https://www.examtopics.com/discussions/microsoft/view/78584-exam-az-104-topic-2-question-61-discussion/
+https://www.examtopics.com/discussions/microsoft/view/26765-exam-az-104-topic-6-question-20-discussion/
+https://www.examtopics.com/discussions/microsoft/view/33398-exam-az-104-topic-5-question-14-discussion/
+
+
+https://www.examtopics.com/discussions/microsoft/view/38274-exam-az-104-topic-4-question-51-discussion/
+https://www.examtopics.com/discussions/microsoft/view/56828-exam-az-104-topic-1-question-1-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62817-exam-az-104-topic-1-question-5-discussion/
+https://www.examtopics.com/discussions/microsoft/view/56338-exam-az-104-topic-1-question-12-discussion/
+https://www.examtopics.com/discussions/microsoft/view/28103-exam-az-104-topic-2-question-13-discussion/
+https://www.examtopics.com/discussions/microsoft/view/56406-exam-az-104-topic-1-question-16-discussion/
+https://www.examtopics.com/discussions/microsoft/view/56352-exam-az-104-topic-1-question-17-discussion/
+	--Detach the data disk --You can simply detach a data disk from one VM and attach it to the other VM without stopping either of the VMs.
+https://www.examtopics.com/discussions/microsoft/view/57002-exam-az-104-topic-1-question-18-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62874-exam-az-104-topic-1-question-19-discussion/	
+https://www.examtopics.com/discussions/microsoft/view/57347-exam-az-104-topic-1-question-36-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38360-exam-az-104-topic-3-question-3-discussion/
+https://www.examtopics.com/discussions/microsoft/view/16414-exam-az-103-topic-3-question-26-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57061-exam-az-104-topic-1-question-31-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57225-exam-az-104-topic-1-question-37-discussion/ ABCDE
+https://www.examtopics.com/discussions/microsoft/view/75852-exam-az-104-topic-2-question-2-discussion/
+https://www.examtopics.com/discussions/microsoft/view/75853-exam-az-104-topic-2-question-3-discussion/
+https://www.examtopics.com/discussions/microsoft/view/25995-exam-az-104-topic-2-question-9-discussion/
+https://www.examtopics.com/discussions/microsoft/view/26088-exam-az-104-topic-2-question-10-discussion/
+https://www.examtopics.com/discussions/microsoft/view/26628-exam-az-104-topic-2-question-11-discussion/
+https://www.examtopics.com/discussions/microsoft/view/28102-exam-az-104-topic-2-question-12-discussion/
+https://www.examtopics.com/discussions/microsoft/view/4581-exam-az-103-topic-5-question-5-discussion/
+https://www.examtopics.com/discussions/microsoft/view/23466-exam-az-103-topic-16-question-74-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38185-exam-az-104-topic-2-question-17-discussion/
+https://www.examtopics.com/discussions/microsoft/view/4221-exam-az-103-topic-5-question-4-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38126-exam-az-104-topic-2-question-26-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38220-exam-az-104-topic-2-question-27-discussion/
+https://www.examtopics.com/discussions/microsoft/view/56963-exam-az-104-topic-1-question-33-discussion/  
+	--least amount of security groups-1
+https://www.examtopics.com/discussions/microsoft/view/57004-exam-az-104-topic-1-question-32-discussion/   
+	--least amount of network interfaces-5
+https://www.examtopics.com/discussions/microsoft/view/15984-exam-az-103-topic-4-question-30-discussion/
+	--least amount of network interfaces-5
+	--least amount of security groups-1
+https://www.examtopics.com/discussions/microsoft/view/57060-exam-az-104-topic-1-question-21-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62878-exam-az-104-topic-1-question-22-discussion/
+https://www.examtopics.com/discussions/microsoft/view/28893-exam-az-104-topic-5-question-9-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62880-exam-az-104-topic-1-question-23-discussion/
+https://www.examtopics.com/discussions/microsoft/view/56296-exam-az-104-topic-1-question-34-discussion/
+https://www.examtopics.com/discussions/microsoft/view/56297-exam-az-104-topic-1-question-35-discussion/
+https://www.examtopics.com/discussions/microsoft/view/17924-exam-az-103-topic-1-question-4-discussion/
+https://www.examtopics.com/discussions/microsoft/view/78387-exam-az-104-topic-2-question-62-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62980-exam-az-104-topic-2-question-23-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38321-exam-az-104-topic-2-question-36-discussion/
+https://www.examtopics.com/discussions/microsoft/view/93938-exam-az-104-topic-3-question-49-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38362-exam-az-104-topic-3-question-21-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39037-exam-az-104-topic-5-question-25-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38269-exam-az-104-topic-4-question-60-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38169-exam-az-104-topic-5-question-41-discussion/
+https://www.examtopics.com/discussions/microsoft/view/41214-exam-az-104-topic-2-question-38-discussion/
+https://www.examtopics.com/discussions/microsoft/view/43815-exam-az-104-topic-2-question-40-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38599-exam-az-104-topic-5-question-5-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39279-exam-az-104-topic-5-question-70-discussion/
+https://www.examtopics.com/discussions/microsoft/view/51316-exam-az-104-topic-5-question-46-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39017-exam-az-104-topic-5-question-10-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39038-exam-az-104-topic-5-question-26-discussion/
+
+Afzal Start from here
+https://www.examtopics.com/discussions/microsoft/view/38126-exam-az-104-topic-2-question-26-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38434-exam-az-104-topic-2-question-29-discussion/
+https://www.examtopics.com/discussions/microsoft/view/19487-exam-az-103-topic-2-question-27-discussion/ Same Azure Blob storage or Azure File Storage
+https://www.examtopics.com/discussions/microsoft/view/38363-exam-az-104-topic-3-question-22-discussion/ Same Azure Blob storage or Azure File Storage
+https://www.examtopics.com/discussions/microsoft/view/67446-exam-az-104-topic-3-question-38-discussion/
+https://www.examtopics.com/discussions/microsoft/view/95611-exam-az-104-topic-3-question-61-discussion/
+https://www.examtopics.com/discussions/microsoft/view/51301-exam-az-104-topic-3-question-1-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38137-exam-az-104-topic-3-question-19-discussion/
+https://www.examtopics.com/discussions/microsoft/view/16907-exam-az-103-topic-2-question-8-discussion/
+https://www.examtopics.com/discussions/microsoft/view/63320-exam-az-104-topic-3-question-24-discussion/
+https://www.examtopics.com/discussions/microsoft/view/51272-exam-az-104-topic-3-question-32-discussion/
+https://www.examtopics.com/discussions/microsoft/view/53940-exam-az-104-topic-3-question-36-discussion/
+https://www.examtopics.com/discussions/microsoft/view/102146-exam-az-104-topic-3-question-66-discussion/
+https://www.examtopics.com/discussions/microsoft/view/102336-exam-az-104-topic-3-question-68-discussion/ --containers and queues only
+https://www.examtopics.com/discussions/microsoft/view/41443-exam-az-104-topic-4-question-52-discussion/
+https://www.examtopics.com/discussions/microsoft/view/108476-exam-az-104-topic-3-question-72-discussion/
+https://www.examtopics.com/discussions/microsoft/view/95675-exam-az-104-topic-2-question-71-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62888-exam-az-104-topic-2-question-16-discussion/
+https://www.examtopics.com/discussions/microsoft/view/74021-exam-az-104-topic-2-question-53-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62990-exam-az-104-topic-2-question-45-discussion/
+https://www.examtopics.com/discussions/microsoft/view/102272-exam-az-104-topic-2-question-78-discussion/
+https://www.examtopics.com/discussions/microsoft/view/78405-exam-az-104-topic-2-question-55-discussion/
+https://www.examtopics.com/discussions/microsoft/view/119584-exam-az-104-topic-2-question-90-discussion/
+https://www.examtopics.com/discussions/microsoft/view/108482-exam-az-104-topic-2-question-80-discussion/
+https://www.examtopics.com/discussions/microsoft/view/93816-exam-az-104-topic-2-question-69-discussion/
+https://www.examtopics.com/discussions/microsoft/view/63255-exam-az-104-topic-3-question-23-discussion/
+https://www.examtopics.com/discussions/microsoft/view/119534-exam-az-104-topic-3-question-78-discussion/
+https://www.examtopics.com/discussions/microsoft/view/67433-exam-az-104-topic-3-question-16-discussion/
+https://www.examtopics.com/discussions/microsoft/view/67644-exam-az-104-topic-3-question-39-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38912-exam-az-104-topic-3-question-20-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39690-exam-az-104-topic-6-question-3-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38238-exam-az-104-topic-3-question-25-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38184-exam-az-104-topic-3-question-26-discussion/
+https://www.examtopics.com/discussions/microsoft/view/63324-exam-az-104-topic-3-question-37-discussion/
+https://www.examtopics.com/discussions/microsoft/view/11035-exam-az-103-topic-2-question-10-discussion/
+https://www.examtopics.com/discussions/microsoft/view/78877-exam-az-104-topic-3-question-40-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62800-exam-az-104-topic-3-question-41-discussion/
+https://www.examtopics.com/discussions/microsoft/view/26001-exam-az-500-topic-4-question-3-discussion/
+https://www.examtopics.com/discussions/microsoft/view/93891-exam-az-104-topic-3-question-57-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38733-exam-az-104-topic-2-question-24-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38904-exam-az-104-topic-4-question-41-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38803-exam-az-104-topic-4-question-25-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38288-exam-az-104-topic-4-question-6-discussion/
+https://www.examtopics.com/discussions/microsoft/view/18901-exam-az-300-topic-4-question-13-discussion/
+https://www.examtopics.com/discussions/microsoft/view/78879-exam-az-104-topic-3-question-43-discussion/
+https://www.examtopics.com/discussions/microsoft/view/63314-exam-az-104-topic-3-question-46-discussion/
+https://www.examtopics.com/discussions/microsoft/view/53891-exam-az-104-topic-3-question-35-discussion/
+https://www.examtopics.com/discussions/microsoft/view/25359-exam-az-104-topic-3-question-45-discussion/
+https://www.examtopics.com/discussions/microsoft/view/93898-exam-az-104-topic-3-question-51-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39142-exam-az-104-topic-3-question-15-discussion/
+https://www.examtopics.com/discussions/microsoft/view/122369-exam-az-104-topic-3-question-81-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38284-exam-az-104-topic-4-question-43-discussion/
+https://www.examtopics.com/discussions/microsoft/view/94003-exam-az-104-topic-3-question-55-discussion/
+https://www.examtopics.com/discussions/microsoft/view/122150-exam-az-104-topic-3-question-82-discussion/
+https://www.examtopics.com/discussions/microsoft/view/67546-exam-az-104-topic-4-question-67-discussion/
+https://www.examtopics.com/discussions/microsoft/view/67546-exam-az-104-topic-4-question-67-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39007-exam-az-104-topic-5-question-99-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38433-exam-az-104-topic-5-question-21-discussion/
+
+
+--New
+https://www.examtopics.com/discussions/microsoft/view/95593-exam-az-104-topic-3-question-58-discussion/
+https://www.examtopics.com/discussions/microsoft/view/98388-exam-az-104-topic-2-question-75-discussion/
+https://www.examtopics.com/discussions/microsoft/view/51306-exam-az-104-topic-2-question-30-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39450-exam-az-104-topic-5-question-29-discussion/
+https://www.examtopics.com/discussions/microsoft/view/74098-exam-az-104-topic-4-question-38-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38893-exam-az-104-topic-6-question-6-discussion/
+https://www.examtopics.com/discussions/microsoft/view/67686-exam-az-104-topic-6-question-8-discussion/
+https://www.examtopics.com/discussions/microsoft/view/80280-exam-az-104-topic-6-question-23-discussion/
+https://www.examtopics.com/discussions/microsoft/view/78882-exam-az-104-topic-3-question-48-discussion/
+
+
+DropDown  and DragAndDrop
+https://www.examtopics.com/discussions/microsoft/view/62875-exam-az-104-topic-1-question-20-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62990-exam-az-104-topic-2-question-45-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39132-exam-az-104-topic-3-question-11-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38884-exam-az-104-topic-3-question-10-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62873-exam-az-104-topic-11-question-1-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38457-exam-az-104-topic-2-question-21-discussion/
+https://www.examtopics.com/discussions/microsoft/view/16033-exam-az-103-topic-1-question-19-discussion/
+https://www.examtopics.com/discussions/microsoft/view/73994-exam-az-104-topic-3-question-44-discussion/
+https://www.examtopics.com/discussions/microsoft/view/75857-exam-az-104-topic-2-question-7-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38883-exam-az-104-topic-3-question-4-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38806-exam-az-104-topic-2-question-25-discussion/
+https://www.examtopics.com/discussions/microsoft/view/67601-exam-az-104-topic-9-question-1-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38239-exam-az-104-topic-3-question-31-discussion/
+https://www.examtopics.com/discussions/microsoft/view/94174-exam-az-104-topic-6-question-36-discussion/
+https://www.examtopics.com/discussions/microsoft/view/93943-exam-az-104-topic-3-question-53-discussion/
+https://www.examtopics.com/discussions/microsoft/view/79917-exam-az-104-topic-6-question-31-discussion/
+https://www.examtopics.com/discussions/microsoft/view/63169-exam-az-104-topic-5-question-76-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38162-exam-az-104-topic-3-question-7-discussion/
+https://www.examtopics.com/discussions/microsoft/view/93864-exam-az-104-topic-2-question-67-discussion/
+
+
+
+Radio Button
+https://www.examtopics.com/discussions/microsoft/view/51270-exam-az-104-topic-2-question-37-discussion/
+https://www.examtopics.com/discussions/microsoft/view/108482-exam-az-104-topic-2-question-80-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38963-exam-az-104-topic-3-question-9-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38336-exam-az-104-topic-4-question-37-discussion/
+https://www.examtopics.com/discussions/microsoft/view/62896-exam-az-104-topic-2-question-44-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38733-exam-az-104-topic-2-question-24-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38336-exam-az-104-topic-4-question-37-discussion/
+https://www.examtopics.com/discussions/microsoft/view/93871-exam-az-104-topic-3-question-50-discussion/
+https://www.examtopics.com/discussions/microsoft/view/119575-exam-az-104-topic-3-question-80-discussion/
+https://www.examtopics.com/discussions/microsoft/view/93938-exam-az-104-topic-3-question-49-discussion/
+https://www.examtopics.com/discussions/microsoft/view/73975-exam-az-104-topic-6-question-12-discussion/
+
+
+
+
+SimilarType
+-done
+https://www.examtopics.com/discussions/microsoft/view/57044-exam-az-104-topic-1-question-2-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57111-exam-az-104-topic-1-question-3-discussion/
+https://www.examtopics.com/discussions/microsoft/view/56829-exam-az-104-topic-1-question-4-discussion/
+
+-done
+https://www.examtopics.com/discussions/microsoft/view/57782-exam-az-104-topic-1-question-6-discussion/
+https://www.examtopics.com/discussions/microsoft/view/59109-exam-az-104-topic-1-question-7-discussion/
+https://www.examtopics.com/discussions/microsoft/view/56992-exam-az-104-topic-1-question-8-discussion/ --Yes
+
+-done
+https://www.examtopics.com/discussions/microsoft/view/57486-exam-az-104-topic-1-question-24-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57485-exam-az-104-topic-1-question-25-discussion/
+https://www.examtopics.com/discussions/microsoft/view/74289-exam-az-104-topic-1-question-26-discussion/
+
+-done
+https://www.examtopics.com/discussions/microsoft/view/57646-exam-az-104-topic-1-question-28-discussion/
+https://www.examtopics.com/discussions/microsoft/view/59581-exam-az-104-topic-1-question-29-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57109-exam-az-104-topic-1-question-30-discussion/
+
+
+--done
+https://www.examtopics.com/discussions/microsoft/view/78362-exam-az-104-topic-1-question-38-discussion/
+https://www.examtopics.com/discussions/microsoft/view/113182-exam-az-104-topic-2-question-83-discussion/
+https://www.examtopics.com/discussions/microsoft/view/78363-exam-az-104-topic-1-question-39-discussion/
+https://www.examtopics.com/discussions/microsoft/view/93799-exam-az-104-topic-2-question-65-discussion/
+https://www.examtopics.com/discussions/microsoft/view/78364-exam-az-104-topic-1-question-40-discussion/
+
+
+--Done
+https://www.examtopics.com/discussions/microsoft/view/67429-exam-az-104-topic-2-question-51-discussion/
+https://www.examtopics.com/discussions/microsoft/view/35085-exam-az-104-topic-2-question-18-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38859-exam-az-104-topic-2-question-19-discussion/
+
+--done
+https://www.examtopics.com/discussions/microsoft/view/67426-exam-az-104-topic-2-question-49-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38242-exam-az-104-topic-2-question-35-discussion/
+You Assign a network contributor role at the subscription level to Admin1 -- Yes
+
+-done
+https://www.examtopics.com/discussions/microsoft/view/39403-exam-az-104-topic-2-question-58-discussion/
+https://www.examtopics.com/discussions/microsoft/view/75822-exam-az-104-topic-6-question-13-discussion/
+https://www.examtopics.com/discussions/microsoft/view/75825-exam-az-104-topic-2-question-60-discussion/
+
+-done
+https://www.examtopics.com/discussions/microsoft/view/56868-exam-az-104-topic-4-question-69-discussion/
+https://www.examtopics.com/discussions/microsoft/view/63251-exam-az-104-topic-4-question-2-discussion/
+https://www.examtopics.com/discussions/microsoft/view/63248-exam-az-104-topic-4-question-1-discussion/
+
+--done
+https://www.examtopics.com/discussions/microsoft/view/38268-exam-az-104-topic-4-question-70-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38267-exam-az-104-topic-4-question-71-discussion/
+
+--done
+https://www.examtopics.com/discussions/microsoft/view/33742-exam-az-104-topic-4-question-16-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38684-exam-az-104-topic-4-question-18-discussion/
+https://www.examtopics.com/discussions/microsoft/view/63309-exam-az-104-topic-4-question-62-discussion/
+
+--Done
+https://www.examtopics.com/discussions/microsoft/view/75850-exam-az-104-topic-2-question-1-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38280-exam-az-104-topic-4-question-45-discussion/
+https://www.examtopics.com/discussions/microsoft/view/26982-exam-az-104-topic-4-question-34-discussion/
+
+--done
+https://www.examtopics.com/discussions/microsoft/view/57081-exam-az-104-topic-1-question-9-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57045-exam-az-104-topic-1-question-10-discussion/
+https://www.examtopics.com/discussions/microsoft/view/56832-exam-az-104-topic-1-question-11-discussion/
+
+https://www.examtopics.com/discussions/microsoft/view/57481-exam-az-104-topic-1-question-13-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57078-exam-az-104-topic-1-question-14-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57482-exam-az-104-topic-1-question-15-discussion/
+
+
+https://www.examtopics.com/discussions/microsoft/view/59581-exam-az-104-topic-1-question-29-discussion/
+https://www.examtopics.com/discussions/microsoft/view/57109-exam-az-104-topic-1-question-30-discussion/
+
+
+https://www.examtopics.com/discussions/microsoft/view/38671-exam-az-104-topic-4-question-22-discussion/
+https://www.examtopics.com/discussions/microsoft/view/39450-exam-az-104-topic-5-question-29-discussion/
+https://www.examtopics.com/discussions/microsoft/view/17913-exam-az-103-topic-3-question-16-discussion/
+https://www.examtopics.com/discussions/microsoft/view/38672-exam-az-104-topic-4-question-21-discussion/
+https://www.examtopics.com/discussions/microsoft/view/7046-exam-az-103-topic-4-question-14-discussion/
